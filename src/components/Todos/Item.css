@@ -1,0 +1,6 @@
+.Item { list-style: none; position: relative; height: 60px; line-height: 60px; border-bottom: 1px solid #eee;}
+.Item span{font-size: 30px; position: absolute; left: 0; top: 0;}
+.Item span.on{color:yellow}
+.Item em{font-size: 25px; font-style: normal; margin-left: 100px;}
+.Item em.on{color:yellow; text-decoration: line-through;}
+.Item button{width: 80px; height: 40px; position: absolute;right: 0;top: 10px; background: #fff; border: 1px solid #dcdcdc;}
